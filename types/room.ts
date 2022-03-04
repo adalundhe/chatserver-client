@@ -1,0 +1,1 @@
+export interface Room {name: string, token: string, id: string}
